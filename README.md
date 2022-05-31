@@ -2,7 +2,7 @@
 
 En este curso aprenderás a programar en python
 
-![Logo de Python](imagenes\python.png)
+![Logo de Python](https://github.com/JanDevs/practicas-python/tree/main/imagenes)
 
 **Requisitos**
 - Python 3.6 o superior
